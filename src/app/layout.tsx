@@ -43,7 +43,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} 
                   ${DBHeaventRounded.variable} ${DBHeaventRoundedBold.variable} 
-                  ${DBHeaventRoundedMed.variable} antialiased`}
+                  ${DBHeaventRoundedMed.variable} antialiased max-w-screen`}
       >
         {children}
       </body>

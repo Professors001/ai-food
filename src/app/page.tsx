@@ -44,7 +44,7 @@ export default function HomePage() {
 
   return (
     // Changed the main background to a light gray to match the example
-    <main className="flex flex-col min-h-screen bg-gray-50 h-full font-db-heavent-rounded">
+    <main className="flex flex-col min-h-screen bg-gray-50 h-full font-db-heavent-rounded overflow-x-hidden">
       {/* Banner Section (Unchanged) */}
       <div className="relative flex justify-center items-center w-full h-96 overflow-hidden z-0">
         <Image
