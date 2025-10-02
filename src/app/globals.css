@@ -10,6 +10,10 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  --font-db-heavent-rounded: var(--font-db-heavent-rounded);
+  --font-db-heavent-rounded-bold: var(--font-db-heavent-rounded-bold);
+  --font-db-heavent-rounded-med: var(--font-db-heavent-rounded-med);
 }
 
 @media (prefers-color-scheme: dark) {
